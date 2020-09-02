@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Contact</title>
+	<atom:link href="http://localhost/wordpress_5_0_10/index.php/about/contact/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description>The Audiological and Genetic Database Project; Medical Data Resources for Researchers Studying Pediatric Hearing Health</description>
+	<lastBuildDate>Tue, 01 Nov 2011 18:09:48 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.10</generator>
+	<item>
+		<title>By: AudGenDB</title>
+		<link>./../index.html#comment-6</link>
+		<dc:creator><![CDATA[AudGenDB]]></dc:creator>
+		<pubDate>Tue, 09 Nov 2010 20:27:49 +0000</pubDate>
+		<guid isPermaLink="false">./../../../index.html#comment-6</guid>
+		<description><![CDATA[[...] Contact [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Contact [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

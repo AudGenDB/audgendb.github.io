@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Release Notes: Initial Beta (May 16, 2011)</title>
+	<atom:link href="http://localhost/wordpress_5_0_10/index.php/documentation/release-notes-beta-2011-05-16/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description>The Audiological and Genetic Database Project; Medical Data Resources for Researchers Studying Pediatric Hearing Health</description>
+	<lastBuildDate>Tue, 01 Nov 2011 18:09:48 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.10</generator>
+	<item>
+		<title>By: What&#8217;s New &#124; AudGenDB</title>
+		<link>./../index.html#comment-8</link>
+		<dc:creator><![CDATA[What&#8217;s New &#124; AudGenDB]]></dc:creator>
+		<pubDate>Tue, 17 May 2011 17:52:22 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../index.html?page_id=1264#comment-8</guid>
+		<description><![CDATA[[...] Initial Beta Release Contents: Focused on Audiology and Demographics Data [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Initial Beta Release Contents: Focused on Audiology and Demographics Data [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
